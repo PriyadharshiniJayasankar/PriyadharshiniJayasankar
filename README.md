@@ -6,7 +6,6 @@
 Hi i love read, speak and discuss about trending material science, space and physics 
 
 - 🌱 Student at *Vellore Institute of Technology, Vellore*  
-- 👨‍💻 Head to my portfolio: <a href="https://pd_priyajai.github.io" target="_blank">*https://pd_priyajai.github.io*</a>
 - 💬 I could answer your questions on  Material science and Physics
 - 📫 Feel free to mail me [priyadharshini.j2022@vitstudent.ac.in](mailto:priyadharshini.j2022@vitstudent.ac.in)
 
